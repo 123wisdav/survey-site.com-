@@ -1,9 +1,9 @@
-# survey-site.com-
+# www.survey-site.com
 <doctype html>
 <html>
 <titile>survey website</tittle>
     <h1>welcome to this survey website!!</h1>
-         <input label="search"></input>
+         <input label="search">
 
 
 <button type="search">search</button>
@@ -39,7 +39,7 @@
 
 <Style>
 	Body{
-	background-color: green;
+	background-color: blue;
 }
 </style>
 
@@ -50,7 +50,7 @@
 
 <h4> for more information contact us;</h4>
 <p>Name:wisdomdav,wizzy dav</p>
-<p>what'sapp No.:09064236133</p>
+<p>what'sapp No.: 09064236133</p>
 <p>Email:<a href="mailto:wisdomdav223@gmail.com">wisdomdav223@gmail.com</a></p>
 <p>Facebook:<a href="https://www.facebook.com">wisdom daniel</a></p>
 <p>Instagram: <a href="https://www.instagram.com">wizzy_dav3333</a></p>
