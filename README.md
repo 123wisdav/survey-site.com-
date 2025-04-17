@@ -7,7 +7,6 @@
 
 
 <button type="search">search</button>
-<img src="survey website.2>
      <h3>Answer the following survey</h3>
 
       <p>select your answer in the following</p>
