@@ -30,16 +30,16 @@
 	<Ul>
 		<p>which language do you like to learn?</p>
 
-			<li><input type="checkbox" name="lanuage">html</input></li>
-			<li><input type="checkbox" "name="lanuage">python</input></li>
-			<li><input type="checkbox" "name="lanuage">javascript</input></li>
-			<li><input type="checkbox" "name="lanuage">c++</input></li>
-			<li><input type="checkbox" "name="lanuage">css</input></li>
-			<li><input type="checkbox" "name="lanuage">java</input></li>
+			<li><input type="checkbox">html</input></li>
+			<li><input type="checkbox">python</input></li>
+			<li><input type="checkbox">javascript</input></li>
+			<li><input type="checkbox">c++</input></li>
+			<li><input type="checkbox">css</input></li>
+			<li><input type="checkbox">java</input></li>
 
 <Style>
 	Body{
-	background-color: blue;
+	background-color: white;
 }
 </style>
 
