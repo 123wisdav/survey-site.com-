@@ -1,7 +1,7 @@
 # www.survey-site.com
 <doctype html>
 <html>
-<titile>survey website</tittle>
+<titile>survey website</title>
     <h1>welcome to this survey website!!</h1>
          <input label="search">
 
@@ -39,7 +39,7 @@
 
 <Style>
 	Body{
-	background-color: white;
+	background-color: blue;
 }
 </style>
 
