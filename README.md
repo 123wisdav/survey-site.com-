@@ -27,15 +27,15 @@
 
 </div>
  
-	<Ul>
+	
 		<p>which language do you like to learn?</p>
 
-			<li><input type="checkbox">html</input></li>
-			<li><input type="checkbox">python</input></li>
-			<li><input type="checkbox">javascript</input></li>
-			<li><input type="checkbox">c++</input></li>
-			<li><input type="checkbox">css</input></li>
-			<li><input type="checkbox">java</input></li>
+			<input type="checkbox">html</input>
+			<input type="checkbox">python</input>
+			<input type="checkbox">javascript</input>
+			<input type="checkbox">c++</input>
+			<input type="checkbox">css</input>
+			<input type="checkbox">java</input>
 
 <Style>
 	Body{
@@ -55,5 +55,3 @@
 <p>Facebook:<a href="https://www.facebook.com">wisdom daniel</a></p>
 <p>Instagram: <a href="https://www.instagram.com">wizzy_dav3333</a></p>
 <p>Tiktok:<a href="https://www.tiktok.com">wizzy dav</a></p>
-</head>
-</html>
