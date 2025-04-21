@@ -1,7 +1,7 @@
 # www.survey-site.com
 <doctype html>
 <html>
-<titile>survey website</title>
+<tittle>survey website</tittle>
     <h1>welcome to this survey website!!</h1>
          <input label="search">
 
@@ -27,15 +27,15 @@
 
 </div>
  
-	
+	<ul>
 		<p>which language do you like to learn?</p>
 
-			<input type="checkbox">html</input>
-			<input type="checkbox">python</input>
-			<input type="checkbox">javascript</input>
-			<input type="checkbox">c++</input>
-			<input type="checkbox">css</input>
-			<input type="checkbox">java</input>
+			<li><input type="checkbox">html</li>
+			<li><input type="checkbox">python</li>
+			<li><input type="checkbox">javascript</li>
+			<li><input type="checkbox">c++</li>
+			<li><input type="checkbox">css</li>
+			<li><input type="checkbox">java</li>
 
 <Style>
 	Body{
